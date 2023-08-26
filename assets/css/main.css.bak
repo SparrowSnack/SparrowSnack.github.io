@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('https://c.wallhere.com/photos/ea/fe/anime_anime_girls_cat_girl_cat_ears_cat_tail_feathers_hugging_looking_at_viewer-2218864.jpg!d');
+    background-image: url('https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/img/background.jpg');
 }
 #rin-bg:after {
     top: 0;
